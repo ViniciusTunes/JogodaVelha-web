@@ -15,8 +15,9 @@
 <li>Bash: Node index.js</li>
 </ul>
 
+<h3>Tela Inicial:</h3>
 ![Screen](https://media.discordapp.net/attachments/1129425322685767680/1161449450405892136/image.png?ex=65385717&is=6525e217&hm=d899da63b6a54efdb2c5925743b650af738c85244b032473b6527d74f5d8cb8f&=&width=1241&height=600)
-
+<h3>Tela do Jogo:</h3>
 ![Second-Screen](https://media.discordapp.net/attachments/1129425322685767680/1161449528503849030/image.png?ex=6538572a&is=6525e22a&hm=90159a19489ec574809277f210e02ca7af999885d0382f24f8ed58fc9f88f232&=&width=1243&height=599)
 
 # 📱 Redes Sociais:
